@@ -63,8 +63,8 @@ input {
     align-items: center;
     cursor: pointer;
     transition: .3s;
-    position: absolute;
-    top: 35%;
+    position: fixed;
+    top: 33%;
     right: 48%;
 
 }
