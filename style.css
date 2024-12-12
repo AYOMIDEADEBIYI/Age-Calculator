@@ -63,10 +63,10 @@ input {
     align-items: center;
     cursor: pointer;
     transition: .3s;
-    position: fixed;
-    top: 33%;
-    right: 48%;
-
+    position: absolute;
+    top: 41%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .arrow button:hover {
     background-color: black;
